@@ -1,2 +1,3 @@
-# DevOps_kristianseng_2022
 DevOps apmācības pieaugušajiem
+# DevOps repozitorijs
+Kristians Engels DevOps repozitorijs pamati iesācējiem
